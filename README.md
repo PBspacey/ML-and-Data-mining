@@ -1,2 +1,2 @@
 # ML-and-Data-mining
-this repo is about MLDM works
+this repo is about MLDM homeworks
